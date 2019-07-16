@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": [
+      { "text": "", "color": "gray" },
+      { "text": "Phantom Elytra", "color": "green" },
+      "\n",
+      "Craft elytra from phantom membrane and leather.",
+      "\n",
+      { "text": "1.0.0 for Minecraft 1.14", "color": "dark_gray" },
+      "\n",
+      "By ",
+      { "text": "Arcensoth", "color": "yellow" }
+    ]
+  }
+}
